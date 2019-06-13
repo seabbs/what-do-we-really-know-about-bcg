@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560441099945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2128151578",
+    "id" : "C0050FC0",
+    "lastKnownWriteTime" : 1560441104,
+    "last_content_update" : 1560441104,
+    "path" : "~/SeabbsPresents/PhD/2019/what-do-we-really-know-about-bcg/Dockerfile",
+    "project_path" : "Dockerfile",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
