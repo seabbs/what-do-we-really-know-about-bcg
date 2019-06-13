@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2128151578",
+    "hash" : "0",
     "id" : "C0050FC0",
-    "lastKnownWriteTime" : 1560441104,
-    "last_content_update" : 1560441104,
+    "lastKnownWriteTime" : 1560441398,
+    "last_content_update" : 1560441398514,
     "path" : "~/SeabbsPresents/PhD/2019/what-do-we-really-know-about-bcg/Dockerfile",
     "project_path" : "Dockerfile",
     "properties" : {
-        "cursorPosition" : "19,0",
+        "cursorPosition" : "15,36",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
